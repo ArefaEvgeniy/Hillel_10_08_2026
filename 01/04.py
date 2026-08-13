@@ -7,3 +7,5 @@ text_2 = "Ein, zwei, drei, vier"
 
 print(langdetect.detect(text_1))
 print(langdetect.detect(text_2))
+
+print("Hello, world")
