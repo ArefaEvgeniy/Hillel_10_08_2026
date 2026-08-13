@@ -12,3 +12,4 @@ print(id(d))
 
 print(id(55))
 print(id(5555))
+print(id(123))
