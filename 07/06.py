@@ -1,0 +1,16 @@
+def my_func():
+    print("-------")
+    print("Hello, World!")
+    print("I'am learning Python programming language.")
+    print("Python is a high-level, interpreted, and general-purpose programming language.")
+    print("\-------/")
+
+
+...
+my_func()
+...
+my_func()
+...
+...
+my_func()
+...
